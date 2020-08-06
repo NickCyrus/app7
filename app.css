@@ -32,7 +32,7 @@ body{
 
 .page-login{
     background: url(assets/images/background-home.jpg);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
